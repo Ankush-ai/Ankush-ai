@@ -1,5 +1,5 @@
 - 👋 Hi, I am Ankush Srivastava
-- 👀 I’m interested in learning software development, front end web development,android
+- 👀 I’m interested in learning software development, front end web development/back end development
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on learning new things
 - 📫 How to reach me ? via my mail!
