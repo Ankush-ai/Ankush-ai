@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Working on **BackEnd Systems**
 
-- 🌱 I’m currently learning **SpringBoot and Node js**
+- 🌱 I’m currently learning **Java BackEnd Development with Spring Boot and as well as Android Development**
 
 - 👯 I’m looking to collaborate on **Web Dev/Full Stack**
 
