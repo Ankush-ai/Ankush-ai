@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankushsriv2308" target="blank"><img src="https://img.shields.io/twitter/follow/ankushsriv2308?logo=twitter&style=for-the-badge" alt="ankushsriv2308" /></a> </p>
 
-- 🔭 I’m currently Working on **BackEnd Sytems and Android**
+- 🔭 I’m currently Working on **BackEnd Sytems and Spring Boot, Python and Automation Porjects**
 
-- 🌱 I’m currently learning **SpringBoot and Android Development**
+- 🌱 I’m currently learning **SpringBoot and Python Development**
 
 - 👯 I’m looking to collaborate on **Web Dev/Full Stack/Andoird**
 
