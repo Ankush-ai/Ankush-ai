@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **SpringBoot and Python Development**
 
-- 👯 I’m looking to collaborate on **Web Dev/Full Stack/Andoird**
+- 👯 I’m looking to collaborate on **Web Dev/Full Stack/React/Spring/Python/Flask/Django/DevRel/Freelance**
 
-- 🤝 I’m looking for help with **Web Dev and Android**
+- 🤝 I’m looking for help with **Web Dev and Flask/Django/DevOps**
 
 - 👨‍💻 All of my projects are available at [https://dev-portfolio-lovat-six.vercel.app/](https://dev-portfolio-lovat-six.vercel.app/)
 
