@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently Working on **Full stack and Open Source**
 
-- 🌱 I’m currently learning **SpringBoot and Django ,FAST API Development**
+- 🌱 I’m currently learning **SpringBoot ,React,Android,DevOps**
 
 - 👯 I’m looking to collaborate on **Web Dev/Full Stack/Andoird/DevOps**
 
-- 🤝 I’m looking for help with **Dev Ops and Django , FAST API**
+- 🤝 I’m looking for help with **Android ,DevOps**
 
 - 👨‍💻 All of my projects are available at [https://dev-portfolio-lovat-six.vercel.app/](https://dev-portfolio-lovat-six.vercel.app/)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **ankushsri007@gmail.com**
 
-- ⚡ Fun fact **I am A Movie Holic**
+- ⚡ Fun fact **I am A CinePhile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
