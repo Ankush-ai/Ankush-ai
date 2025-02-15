@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Hustling in coding since 2020 ...<br>📚 I'm currently learning GenAI, Back Ends,DevOps,Cloud...<br>🎯 Goals: To Have an AI agency as aside hustle and to be af ull time Software Engineer...<br>🎲 Fun fact: I am a Cinephile...</p>
+<p align="center">✨ Hustling in coding since 2020 ...<br>📚 I'm currently learning GenAI, Back Ends,DevOps,Cloud...<br>🎯 Goals: To Have an AI agency as aside hustle and to be a full time Software Engineer...<br>🎲 Fun fact: I am a Cinephile...</p>
 
 ###
 
