@@ -185,6 +185,5 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Ankush-ai/Ankush-ai/output/snake.svg" alt="Snake animation" />
 
 
