@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23080
-Fork on GitHub
-7760
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Ankush Srivastava</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
