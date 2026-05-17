@@ -70,7 +70,6 @@
 
 ## 🚀 Portfolio & Content
 - 🌐 https://dev-portfolio-lovat-six.vercel.app/
-- 📝 https://quora.com/profile/Ankush-Srivastava-37
 
 ---
 
